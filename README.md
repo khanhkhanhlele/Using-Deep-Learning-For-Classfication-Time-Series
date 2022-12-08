@@ -1,6 +1,6 @@
 
 ## Bộ dữ liệu 
-Lấy từ https://www.kaggle.com/datasets/aaron7sun/stocknews/versions/2?resource=download
+https://finance.yahoo.com/quote/AMZN/history?period1=1226102400&period2=1670457600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 
 ## Code 
 
@@ -10,7 +10,7 @@ Sử dụng ngôn ngữ python, môi trường chạy google colab
 
 ## Tài liệu tham khảo
 
-Sun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [Date You Retrieved This Data] from https://www.kaggle.com/aaron7sun/stocknews.
+https://finance.yahoo.com/quote/AMZN/history?period1=1226102400&period2=1670457600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 
 @article{IsmailFawaz2018deep,
   Title                    = {Deep learning for time series classification: a review},
