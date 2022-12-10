@@ -14,9 +14,9 @@ Có hai bảng thống kê bảng thứ nhất là lấy ra lần mà có giá t
 #### Bảng 1
 | Bộ dữ liệu | Thuật toán |loss | accuracy| val_loss |val_accuracy|lr|
 |--------------|-------|------|-------|---------|---------|-----------|
-| Hàng 2 |MLP | |  ||
-| Hàng 3 | FCN | |  |  |
-| Hàng 4 | Resnet |  |  |  |
+| 9class_3day |MLP |2.08299518 | 0.233486950 |2.94052839| 0.289320379|0.00100000005|
+|             |FCN|0.00865046028| 0.996927798|10.5463867  |0.669902921e|0.0000999999975|
+|  | Resnet |  |  |  |
 #### Bảng 2
 ## Tài liệu tham khảo
 
