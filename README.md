@@ -1,7 +1,10 @@
 
 ## Bộ dữ liệu 
-https://finance.yahoo.com/quote/AMZN/history?period1=1226102400&period2=1670457600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+#### Nguồn dữ liệu
+  https://finance.yahoo.com/quote/AMZN/history?period1=1226102400&period2=1670457600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 
+#### Mô tả dữ liệu
+  Mỗi bộ gồm hai tập dữ liệu là tập train và tập test nhãn mỗi đầu dòng là nhãn tương ứng với bộ dữ liệu liền sau nó
 ## Code 
 
 Sử dụng ngôn ngữ python, môi trường chạy google colab
