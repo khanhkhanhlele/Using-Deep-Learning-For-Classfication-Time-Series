@@ -17,6 +17,12 @@ Có hai bảng thống kê bảng thứ nhất là lấy ra lần mà có giá t
 | 9class_3day |MLP |2.08299518 | 0.233486950 |2.94052839| 0.289320379|0.00100000005|
 |             |FCN|0.00865046028| 0.996927798|10.5463867  |0.669902921|0.0000999999975|
 |  | Resnet |  |  |  |
+|27 class_4day|MLP|
+|             |FCN|
+|              |Resnet|
+|81 class_5day|MLP|
+|             |FCN| 
+|             |Resnet|
 #### Bảng 2
 ## Tài liệu tham khảo
 
