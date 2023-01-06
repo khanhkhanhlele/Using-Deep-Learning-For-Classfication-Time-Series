@@ -50,7 +50,7 @@ Có hai bảng thống kê bảng thứ nhất là lấy ra lần mà có giá t
 ||
 |25class_7day|MLP|2.5617|0.2793|3.6756|0.2476|0.001|
 |             |FCN|0.0517|0.9975|27.6123|0.10476|0.0001|
-               |Resnet|0.00108|1.000|12.2618|0.16190|0.00001
+|             |Resnet|0.00108|1.000|12.2618|0.16190|0.00001
 ## Tài liệu tham khảo
 
 https://finance.yahoo.com/quote/AMZN/history?period1=1226102400&period2=1670457600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
